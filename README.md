@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&&height=70)
 # Welcome to Seonghui's GitHub!
-<span style="color:red">Red Text</span>
+
 
 ####  :clipboard: Once I've Used <br/>
   
