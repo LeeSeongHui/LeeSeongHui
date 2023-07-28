@@ -19,7 +19,9 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"><br/>
 
 <br>
-![Seonghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSeongHui&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSeongHui&show_icons=true&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeongHui&layout=compact&theme=tokyonight)
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5&height=70)
