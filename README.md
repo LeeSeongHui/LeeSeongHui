@@ -1,7 +1,7 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&&height=70)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=&color=FFF44F&height=300&section=header&text=capsule%20render&fontSize=90)
 # Welcome to Seonghui's GitHub!
 
 
