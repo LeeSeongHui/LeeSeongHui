@@ -1,8 +1,8 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&&height=70)
-![header](https://capsule-render.vercel.app/api?type=&color=FFF44F&height=300&section=header&text=capsule%20render&fontSize=90)
-# Welcome to Seonghui's GitHub!
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF6E6E&height=250&section=header&text=Welcome%20to%20Seonghui's%20Github!&fontSize=50&animation=fadeIn&fontAlignY=30&fontColor=FFFFFF)
+
+<br/><br/>
 
 
 ####  :clipboard: Once I've Used <br/>
@@ -17,5 +17,12 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+
+<br/><br/><br/>
+
+![Seonghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSeongHui&theme=dracula&show_icons=true)
+
+
+
 
